@@ -7,3 +7,4 @@ TItanic Competetation problem solved
 #inserting and deleting operation
 #cleaning the data
 #testing with different algorithm
+Author Amina Naaz
